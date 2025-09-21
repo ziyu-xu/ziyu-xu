@@ -1,6 +1,6 @@
 **Ziyu Xu** 
 
-Graduate student from School of life sciences, Tsinghua University
+School of life sciences, Tsinghua University
 
 Email: xzy21@mails.tsinghua.edu.cn
 
