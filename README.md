@@ -1,8 +1,8 @@
 **Ziyu Xu** 
 
-School of life sciences, Tsinghua University
+A chemical biology-backgrounded researcher
 
-Email: xzy21@mails.tsinghua.edu.cn
+Email: ziyux99@163.com
 
 <!---
 ziyu-xu/ziyu-xu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
